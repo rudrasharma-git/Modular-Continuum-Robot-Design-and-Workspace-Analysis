@@ -1,0 +1,2 @@
+An open-source 3-segment continuum robot manipulator with control and actuation mechanisms, whose focus is on simplicity, affordability, and accessibility. 
+This robotic system is fabricated from low cost off-the-shelf components and rapid prototyping methods, and its information for implementation (and that of future iterations), including CAD files and source code, is available to the public  GitHub, with the control library also available directly from Arduino.
